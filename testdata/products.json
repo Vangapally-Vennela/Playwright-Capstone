@@ -1,0 +1,8 @@
+{
+  "searchTerms": [
+    { "term": "Tshirt", "minResults": 1 },
+    { "term": "Jeans", "minResults": 1 },
+    { "term": "Dress", "minResults": 1 }
+  ],
+  "noResultTerm": "zzzxxyyqq"
+}

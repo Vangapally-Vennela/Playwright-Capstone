@@ -1,0 +1,14 @@
+[
+  {
+    "title": "wrong password for unknown user",
+    "email": "nobody.here@example.com",
+    "password": "WrongPass#1",
+    "expectedError": "Your email or password is incorrect!"
+  },
+  {
+    "title": "malformed credentials",
+    "email": "not-an-email@invalid.test",
+    "password": "x",
+    "expectedError": "Your email or password is incorrect!"
+  }
+]

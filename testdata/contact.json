@@ -1,0 +1,9 @@
+{
+  "valid": {
+    "name": "QA Engineer",
+    "email": "qa.engineer@example.com",
+    "subject": "Order enquiry",
+    "message": "This is an automated test message from the Playwright capstone framework."
+  },
+  "invalidEmails": ["plainaddress", "missing-at.example.com", "user@"]
+}
